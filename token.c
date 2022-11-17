@@ -17,7 +17,7 @@ char **token(char *str)
 	if (arrstr == NULL)
 		exit(EXIT_FAILURE);
 
-	delim = " \n";
+	delim = "\n";
 	substr = strtok(str, delim);
 	i = 0;
 
