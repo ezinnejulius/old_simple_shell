@@ -3,7 +3,6 @@
 /**
  * token - Tokenize a string
  * @str: String to be tokenized
- * @delim: Delimiter to tokenize string
  *
  * Return: Array of strings
  */
